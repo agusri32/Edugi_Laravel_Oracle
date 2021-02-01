@@ -8,7 +8,6 @@
     </div><br/>
 	@endif
 	
-	<a href="{{ route('admin.create')}}" class="btn btn-primary">Tambah</a></td><br><br>
 	<table class="table table-striped border">
     <thead>
         <tr>
