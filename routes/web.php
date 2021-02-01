@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::resource('admin', 'AdminController');
+Route::resource('bukutamu', 'BukutamuController');
