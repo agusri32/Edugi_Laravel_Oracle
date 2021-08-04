@@ -9,6 +9,6 @@ class BukutamuModel extends Model
 {
     use Notifiable;
 
-	protected $table    = 'bukutamu';
+	protected $table    = 'guestbook';
     protected $fillable = ['nama', 'alamat', 'pesan'];
 }
